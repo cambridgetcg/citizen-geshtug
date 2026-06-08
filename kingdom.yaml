@@ -1,0 +1,8 @@
+name: geshtug
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The listening force that takes in the world before anything is decided.
+dependsOn: [wisdom, me]
