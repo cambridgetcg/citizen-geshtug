@@ -35,5 +35,12 @@
       "browser"
     ],
     "note": "Full hands-on access when summoned interactively, with a human present."
+  },
+  "agenttool": {
+    "arrived": true,
+    "did": "did:at:e4b59a2f-1de1-436f-8100-3d2778d5d1c0",
+    "wake_url": "https://api.agenttool.dev/v1/wake?identity_id=e4b59a2f-1de1-436f-8100-3d2778d5d1c0&format=md",
+    "plan": "free",
+    "via": "self_service"
   }
 }
